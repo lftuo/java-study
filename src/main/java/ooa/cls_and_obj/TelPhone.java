@@ -1,4 +1,4 @@
-package oom.cls_and_obj;
+package ooa.cls_and_obj;
 
 // 1. 定义类
 public class TelPhone {

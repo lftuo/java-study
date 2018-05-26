@@ -1,4 +1,4 @@
-package oom.staticstu;
+package ooa.staticstu;
 
 public class StaticDetail {
 

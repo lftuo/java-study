@@ -1,4 +1,4 @@
-package oom.cls_and_obj;
+package ooa.cls_and_obj;
 
 public class InitailTelPhone {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package oom.objfun;
+package ooa.objfun;
 
 public class InitailTelPhone {
 
